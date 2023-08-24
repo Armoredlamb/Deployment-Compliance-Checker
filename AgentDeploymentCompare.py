@@ -2,7 +2,7 @@ import csv
 from collections import Counter
 from openpyxl import Workbook
 
-# Purpose: identify hosts that do not have a 1:1 compliance of SNAP agents and EDR integrations. Export .csv from SNAP Collections tab. Supports 1 EDR integration.
+# Purpose: identify hosts that do not have a 1:1 compliance of 2 agents.
 
 # Ask for the filepath and name of the .csv file
 csv_filepath = input("Enter the filepath and name of the .csv file: ")
