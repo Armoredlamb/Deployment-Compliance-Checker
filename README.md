@@ -1,5 +1,5 @@
 # Deployment-Compliance-Checker
-Checks column A and identifies rows that only exist once instead of twice. 
+Checks column A of a csv and identifies rows that only exist once instead of twice. 
 
 Then exports full rows to a new excel sheet. 
 
